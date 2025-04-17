@@ -139,5 +139,6 @@ By completing this project, you've:
 - [AWS Docs: Hosting a Static Website on Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html)
 - [AWS Free Tier](https://aws.amazon.com/free/)
 - [`Free pictures from unssplash`] (https://unsplash.com/)
-```
-# 🙏 Thank You! 
+
+# 🙏 Thank You!
+
