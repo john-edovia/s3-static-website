@@ -138,7 +138,17 @@ By completing this project, you've:
 
 - [AWS Docs: Hosting a Static Website on Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html)
 - [AWS Free Tier](https://aws.amazon.com/free/)
-- [`Free pictures from unssplash`] (https://unsplash.com/)
+- [Free pictures from unsplash](https://unsplash.com/)
 
+
+# 🧹 Housekeeping
+
+If you no longer wish to keep the website running, you can clean up your AWS resources by deleting the files and removing the S3 bucket:
+
+```sh
+aws s3 rm s3://natures-beauty-website/ --recursive
+aws s3 rb s3://natures-beauty-website --force
+
+```
 # 🙏 Thank You!
 
