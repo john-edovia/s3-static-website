@@ -140,5 +140,4 @@ By completing this project, you've:
 - [AWS Free Tier](https://aws.amazon.com/free/)
 - [`Free pictures from unssplash`] (https://unsplash.com/)
 ```
-
-🙏 Thank You! 
+# 🙏 Thank You! 
